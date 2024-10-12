@@ -1,0 +1,4 @@
+Enter size of array : Enter elements : Array after deletion of first element : 10
+20
+30
+40
